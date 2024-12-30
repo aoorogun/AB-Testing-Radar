@@ -1,8 +1,5 @@
 # AB-Testing-Radar
 
-### README for A/B Testing Analysis
-
---
 
 #### **Project Overview**
 This repository contains an A/B testing analysis for one of the products in Prembly inc to evaluate the effectiveness of two variants (A and B) in achieving a desired outcome, such as increasing user engagement, conversions, or revenue. The analysis is structured to ensure statistical rigor and actionable insights.
